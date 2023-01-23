@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "463607294075",
+    "firebase_url": "https://ellapp-78d8b-default-rtdb.firebaseio.com",
+    "project_id": "ellapp-78d8b",
+    "storage_bucket": "ellapp-78d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463607294075:android:f327f5688c3e004e7f1ade",
+        "android_client_info": {
+          "package_name": "com.ellapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463607294075-hf1o5nse4pp1brpph656fqe32nh3en05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ellapp",
+            "certificate_hash": "61ed377e85d386a8dfee6b864bd85b0bfaa5af81"
+          }
+        },
+        {
+          "client_id": "463607294075-k1taccfoh78c5cs622b0vfusk1hoa39f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ellapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "463607294075-u1g0g4u7eupf2aif7k12odir266q8jhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ellapp",
+            "certificate_hash": "bcb83aeee7742a1073a5df4d6a5501cf825f38d3"
+          }
+        },
+        {
+          "client_id": "463607294075-irgp83696e5ojsh17rf8akhhb581vh0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEQWFdaC9Z4mKoBHf_fhYU4SPnmUJX7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463607294075-irgp83696e5ojsh17rf8akhhb581vh0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463607294075-ljc4c4k4a62rar0untlvh282ltlokfmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ellapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463607294075:android:2b4b46565752e2d87f1ade",
+        "android_client_info": {
+          "package_name": "com.ellapp.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463607294075-jsnjfrfqscavrb3b8gg41fcg0mn7lo6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ellapp.provider",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "463607294075-irgp83696e5ojsh17rf8akhhb581vh0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEQWFdaC9Z4mKoBHf_fhYU4SPnmUJX7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463607294075-irgp83696e5ojsh17rf8akhhb581vh0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463607294075-ljc4c4k4a62rar0untlvh282ltlokfmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ellapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463607294075:android:2f92f9230e91c3517f1ade",
+        "android_client_info": {
+          "package_name": "com.ellapp.subadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463607294075-gkrq8t3jtr1cg4ao02si1sb117s71sm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ellapp.subadmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "463607294075-irgp83696e5ojsh17rf8akhhb581vh0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEQWFdaC9Z4mKoBHf_fhYU4SPnmUJX7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463607294075-irgp83696e5ojsh17rf8akhhb581vh0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463607294075-ljc4c4k4a62rar0untlvh282ltlokfmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ellapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463607294075:android:678bfa4ef130cf137f1ade",
+        "android_client_info": {
+          "package_name": "com.ellapp.superadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463607294075-laspqt5dmevjfl8q2f3b5vkoig704fq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ellapp.superadmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "463607294075-irgp83696e5ojsh17rf8akhhb581vh0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEQWFdaC9Z4mKoBHf_fhYU4SPnmUJX7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463607294075-irgp83696e5ojsh17rf8akhhb581vh0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463607294075-ljc4c4k4a62rar0untlvh282ltlokfmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ellapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

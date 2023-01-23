@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>463607294075-ljc4c4k4a62rar0untlvh282ltlokfmn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.463607294075-ljc4c4k4a62rar0untlvh282ltlokfmn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>463607294075-gkrq8t3jtr1cg4ao02si1sb117s71sm0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOjG2H9WaXElNjFgPQuIhyposolPVTEk4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>463607294075</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ellapp</string>
+	<key>PROJECT_ID</key>
+	<string>ellapp-78d8b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ellapp-78d8b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:463607294075:ios:5d0369a2cfe184d37f1ade</string>
+	<key>DATABASE_URL</key>
+	<string>https://ellapp-78d8b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
